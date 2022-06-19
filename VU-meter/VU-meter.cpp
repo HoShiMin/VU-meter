@@ -198,16 +198,11 @@ struct VUMeter
     CellType rightBracket;
     CellType delimiter;
     CellType bar[26];
-    CellType newLine1;
     CellType line[32];
-    CellType newLine2;
     CellType histogram[/*row:*/16][/*col:*/32];
 
     void displayVolume(unsigned char percentage)
     {
-        newLine1 = L'\n';
-        newLine2 = L'\n';
-
         if constexpr (std::is_same_v<CellType, Console::Char>)
         {
             for (auto& c : volume)
