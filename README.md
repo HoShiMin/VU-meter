@@ -5,8 +5,8 @@ It's just a funny project that visualizes volume units (VU) in a terminal and on
 </p>
 
 #### 🎚️ It demonstrates:
-* EndpointVolume API through a COM interface.
-* RawInput API to track a state of NumLock, CapsLock and ScrollLock buttons.
+* [EndpointVolume API](https://docs.microsoft.com/en-us/windows/win32/coreaudio/endpointvolume-api) through a COM interface.
+* [RawInput API](https://docs.microsoft.com/en-us/windows/win32/inputdev/about-raw-input) to track a state of NumLock, CapsLock and ScrollLock buttons.
 * Console manipulation to draw graphs in a console app.
 
 #### 🎧 Usage:
