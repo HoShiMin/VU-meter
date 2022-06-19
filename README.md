@@ -1,5 +1,5 @@
 # 🎵 VU-meter
-It's just a funny project that visualizes volume units (VU) in a terminal and on your keyboard LEDs for a playing music.
+It's just a funny project that visualizes [volume units](https://en.wikipedia.org/wiki/VU_meter) (VU) in a terminal and on your keyboard LEDs for a playing music.
 <p align="center">
   <img alt="zydis logo" src="https://github.com/HoShiMin/VU-meter/blob/main/assets/vu-meter.png">
 </p>
