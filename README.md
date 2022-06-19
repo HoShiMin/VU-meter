@@ -1,8 +1,8 @@
 # 🎵 VU-meter
 It's just a funny project that visualizes volume units (VU) in a terminal and on your keyboard LEDs for a playing music.
-
-![vu-meter](./assets/vu-meter.png)
-
+<p align="center">
+  <img alt="zydis logo" src="https://github.com/HoShiMin/VU-meter/blob/main/assets/vu-meter.png">
+</p>
 #### 🎚️ It demonstrates:
 * EndpointVolume API through a COM interface.
 * RawInput API to track a state of NumLock, CapsLock and ScrollLock buttons.
